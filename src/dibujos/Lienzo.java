@@ -18,6 +18,7 @@ public class Lienzo extends JPanel {
         datos.add(new Persona("pepe",100));
         datos.add(new Persona("juan", 200));
         datos.add(new Persona("david",300));
+        datos.add(new Persona("carlos",400));
     }
 
     @Override
